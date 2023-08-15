@@ -35,6 +35,8 @@ Design and implement a user-friendly Streamlit application that allows users to 
 * Pandas
 * Scikit-learn
 * Streamlit
+* Matplotlib
+* Seaborn
 
 # Methods
 * Importing the necessary modules
